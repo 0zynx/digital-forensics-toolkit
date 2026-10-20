@@ -1,0 +1,12 @@
+partition_index,path,name,inode,type,size,created_utc,modified_utc,accessed_utc,changed_utc,status,data_runs
+2,/System Volume Information,System Volume Information,5,dir,512,2026-10-16T04:47:31Z,2026-10-16T04:47:32Z,2026-10-15T18:30:00Z,,allocated,"[{""start_offset"":4260352,""length"":512}]"
+2,/System Volume Information/WPSettings.dat,WPSettings.dat,23,file,12,2026-10-16T04:47:31Z,2026-10-16T04:47:32Z,2026-10-15T18:30:00Z,,allocated,"[{""start_offset"":4260864,""length"":512}]"
+2,/System Volume Information/IndexerVolumeGuid,IndexerVolumeGuid,26,file,76,2026-10-16T04:47:32Z,2026-10-16T04:47:34Z,2026-10-15T18:30:00Z,,allocated,"[{""start_offset"":4261376,""length"":512}]"
+2,/_ase_id.txt,_ase_id.txt,6,file,24,2026-10-16T04:47:33Z,2026-10-16T03:44:08Z,2026-10-15T18:30:00Z,,deleted,"[{""start_offset"":4261888,""length"":512}]"
+2,/deleted_note.txt,deleted_note.txt,9,file,28,2026-10-16T04:47:33Z,2026-10-16T03:44:08Z,2026-10-15T18:30:00Z,,deleted,"[{""start_offset"":4262400,""length"":512}]"
+2,/_hoto.jpg,_hoto.jpg,10,file,60716,2026-10-16T04:47:33Z,2026-10-16T03:44:08Z,2026-10-15T18:30:00Z,,deleted,"[{""start_offset"":4262912,""length"":60928}]"
+2,/_hoto.png,_hoto.png,11,file,12966639,2026-10-16T04:47:33Z,2026-10-16T03:44:08Z,2026-10-15T18:30:00Z,,deleted,"[{""start_offset"":4323840,""length"":12966912}]"
+2,/$MBR,$MBR,1931267,file,512,,,,,allocated,"[{""start_offset"":65536,""length"":512}]"
+2,/$FAT1,$FAT1,1931268,file,483328,,,,,allocated,"[{""start_offset"":3293184,""length"":483328}]"
+2,/$FAT2,$FAT2,1931269,file,483328,,,,,allocated,"[{""start_offset"":3776512,""length"":483328}]"
+2,/$OrphanFiles,$OrphanFiles,1931270,dir,0,,,,,deleted,[]

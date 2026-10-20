@@ -1,0 +1,206 @@
+[
+  {
+    "partition_index": 2,
+    "path": "/System Volume Information",
+    "name": "System Volume Information",
+    "inode": 5,
+    "type": "dir",
+    "size": 512,
+    "created_utc": "2026-10-16T04:47:31Z",
+    "modified_utc": "2026-10-16T04:47:32Z",
+    "accessed_utc": "2026-10-15T18:30:00Z",
+    "changed_utc": null,
+    "status": "allocated",
+    "data_runs": [
+      {
+        "start_offset": 4260352,
+        "length": 512
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/System Volume Information/WPSettings.dat",
+    "name": "WPSettings.dat",
+    "inode": 23,
+    "type": "file",
+    "size": 12,
+    "created_utc": "2026-10-16T04:47:31Z",
+    "modified_utc": "2026-10-16T04:47:32Z",
+    "accessed_utc": "2026-10-15T18:30:00Z",
+    "changed_utc": null,
+    "status": "allocated",
+    "data_runs": [
+      {
+        "start_offset": 4260864,
+        "length": 512
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/System Volume Information/IndexerVolumeGuid",
+    "name": "IndexerVolumeGuid",
+    "inode": 26,
+    "type": "file",
+    "size": 76,
+    "created_utc": "2026-10-16T04:47:32Z",
+    "modified_utc": "2026-10-16T04:47:34Z",
+    "accessed_utc": "2026-10-15T18:30:00Z",
+    "changed_utc": null,
+    "status": "allocated",
+    "data_runs": [
+      {
+        "start_offset": 4261376,
+        "length": 512
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/_ase_id.txt",
+    "name": "_ase_id.txt",
+    "inode": 6,
+    "type": "file",
+    "size": 24,
+    "created_utc": "2026-10-16T04:47:33Z",
+    "modified_utc": "2026-10-16T03:44:08Z",
+    "accessed_utc": "2026-10-15T18:30:00Z",
+    "changed_utc": null,
+    "status": "deleted",
+    "data_runs": [
+      {
+        "start_offset": 4261888,
+        "length": 512
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/deleted_note.txt",
+    "name": "deleted_note.txt",
+    "inode": 9,
+    "type": "file",
+    "size": 28,
+    "created_utc": "2026-10-16T04:47:33Z",
+    "modified_utc": "2026-10-16T03:44:08Z",
+    "accessed_utc": "2026-10-15T18:30:00Z",
+    "changed_utc": null,
+    "status": "deleted",
+    "data_runs": [
+      {
+        "start_offset": 4262400,
+        "length": 512
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/_hoto.jpg",
+    "name": "_hoto.jpg",
+    "inode": 10,
+    "type": "file",
+    "size": 60716,
+    "created_utc": "2026-10-16T04:47:33Z",
+    "modified_utc": "2026-10-16T03:44:08Z",
+    "accessed_utc": "2026-10-15T18:30:00Z",
+    "changed_utc": null,
+    "status": "deleted",
+    "data_runs": [
+      {
+        "start_offset": 4262912,
+        "length": 60928
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/_hoto.png",
+    "name": "_hoto.png",
+    "inode": 11,
+    "type": "file",
+    "size": 12966639,
+    "created_utc": "2026-10-16T04:47:33Z",
+    "modified_utc": "2026-10-16T03:44:08Z",
+    "accessed_utc": "2026-10-15T18:30:00Z",
+    "changed_utc": null,
+    "status": "deleted",
+    "data_runs": [
+      {
+        "start_offset": 4323840,
+        "length": 12966912
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/$MBR",
+    "name": "$MBR",
+    "inode": 1931267,
+    "type": "file",
+    "size": 512,
+    "created_utc": null,
+    "modified_utc": null,
+    "accessed_utc": null,
+    "changed_utc": null,
+    "status": "allocated",
+    "data_runs": [
+      {
+        "start_offset": 65536,
+        "length": 512
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/$FAT1",
+    "name": "$FAT1",
+    "inode": 1931268,
+    "type": "file",
+    "size": 483328,
+    "created_utc": null,
+    "modified_utc": null,
+    "accessed_utc": null,
+    "changed_utc": null,
+    "status": "allocated",
+    "data_runs": [
+      {
+        "start_offset": 3293184,
+        "length": 483328
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/$FAT2",
+    "name": "$FAT2",
+    "inode": 1931269,
+    "type": "file",
+    "size": 483328,
+    "created_utc": null,
+    "modified_utc": null,
+    "accessed_utc": null,
+    "changed_utc": null,
+    "status": "allocated",
+    "data_runs": [
+      {
+        "start_offset": 3776512,
+        "length": 483328
+      }
+    ]
+  },
+  {
+    "partition_index": 2,
+    "path": "/$OrphanFiles",
+    "name": "$OrphanFiles",
+    "inode": 1931270,
+    "type": "dir",
+    "size": 0,
+    "created_utc": null,
+    "modified_utc": null,
+    "accessed_utc": null,
+    "changed_utc": null,
+    "status": "deleted",
+    "data_runs": []
+  }
+]

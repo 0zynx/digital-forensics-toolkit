@@ -1,0 +1,39 @@
+{
+  "image_path": "C:\\Users\\Aathika\\Downloads\\PythonForensic-main (1)\\PythonForensic-main\\usb_test.dd",
+  "image_sha256": "f971d560ba105e03658b9fec40b0ffbda8560a3e73351a2e908dad9f94c151d7",
+  "partitions_found": [
+    {
+      "partition_index": 0,
+      "start_sector": 0,
+      "length_sectors": 1,
+      "byte_offset": 0
+    },
+    {
+      "partition_index": 1,
+      "start_sector": 0,
+      "length_sectors": 128,
+      "byte_offset": 0
+    },
+    {
+      "partition_index": 2,
+      "start_sector": 128,
+      "length_sectors": 128896,
+      "byte_offset": 65536
+    },
+    {
+      "partition_index": 3,
+      "start_sector": 129024,
+      "length_sectors": 2048,
+      "byte_offset": 66060288
+    }
+  ],
+  "fs_types": [
+    {
+      "partition_index": 2,
+      "type": "FAT32"
+    }
+  ],
+  "total_files": 9,
+  "allocated_files": 5,
+  "deleted_files": 4
+}
